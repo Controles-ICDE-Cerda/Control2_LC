@@ -1,2 +1,2 @@
 # Control2_LC
-Este repositorio contiene el Índice de Desarrollo Humano mundial para el 2021
+Este repositorio contiene información del Índice de Desarrollo Humano a nivel mundial para el 2021
